@@ -22,4 +22,3 @@ Privilege escalation will be sprinkled in various locations.
 Once all three cluse are found, the user will be allowed to run a new binary file that will prompt him to input the three keys to find the flag and escape the room.
 
 After the user escapes, a program will run that will scramble the escape keys so the same credentials cannot be reused to escape the room the same way.
-TG
