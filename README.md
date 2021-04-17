@@ -3,6 +3,7 @@
 The name of this project is Escape Room.
 
 You enter the escape room using SSH.
+
 Username: guest
 
 Remote IP: After spinning up the Escape Room ova, run nmap to obtain the IP address of the Escape Room.
